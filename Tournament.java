@@ -7,14 +7,11 @@ public class Tournament {
     List<Team> teams = new ArrayList<>();
     List<Group> groups = new ArrayList<>();
     List<Team> knockTeams = new ArrayList<>();
-    List<Match> knockoutMatches = new ArrayList<>();
     private String finalWinner;
 
     // Creating 16 teams
-    public void createTeams() {
-        for (int i = 0; i < 16; i++) {
-            teams.add(new Team(String.format("Team %d", i + 1)));
-        }
+    public void createTeams(List<Team> participants) {
+        teams = participants;
     }
 
     // Creating 4 groups
