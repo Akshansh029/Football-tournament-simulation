@@ -2,6 +2,9 @@
 
 This is a simple Java-based tournament simulation project, which involves creating teams, forming groups, simulating group-stage matches, and performing knockout rounds to determine a final winner.
 
+![image](https://github.com/user-attachments/assets/2dbae864-c2aa-43ae-b7b0-e63b6f63cff9)
+
+
 ## Features
 
 - **Team Creation**: Automatically create 16 teams named "Team 1", "Team 2", ..., "Team 16".
@@ -37,6 +40,9 @@ Simulates a match between two teams. It includes:
 Represents a team in the tournament. It includes:
 - Attributes such as `teamName`, `points`, `goalsScored`.
 - Methods to add goals and update points.
+
+![image](https://github.com/user-attachments/assets/cc3d9be9-126b-45d5-8f5f-68f2cdf827a1)
+
 
 ## How to Run
 
