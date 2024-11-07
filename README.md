@@ -55,7 +55,7 @@ Represents a team in the tournament. It includes:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tournament-simulation.git
+   git clone https://github.com/akshansh029/tournament-simulation.git
    ```
 
 2. Compile and run the Main class (or Tournament class) to simulate the tournament.
