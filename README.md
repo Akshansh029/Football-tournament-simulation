@@ -2,7 +2,8 @@
 
 This is a simple Java-based tournament simulation project, which involves creating teams, forming groups, simulating group-stage matches, and performing knockout rounds to determine a final winner.
 
-![image](https://github.com/user-attachments/assets/2dbae864-c2aa-43ae-b7b0-e63b6f63cff9)
+![image](https://github.com/user-attachments/assets/d2306015-f2ff-4628-90bd-fdd067134282)
+
 
 ## Features
 
@@ -48,14 +49,15 @@ Represents a team in the tournament. It includes:
 - Attributes such as `teamName`, `points`, `goalsScored`.
 - Methods to add goals and update points.
 
-![image](https://github.com/user-attachments/assets/cc3d9be9-126b-45d5-8f5f-68f2cdf827a1)
+![image](https://github.com/user-attachments/assets/e22e1b82-d604-4848-a672-68499da1cde6)
+
 
 ## How to Run
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/akshansh029/tournament-simulation.git
+   git clone https://github.com/Akshansh029/Football-tournament-simulation.git
    ```
 
 2. Compile and run the Main class (or Tournament class) to simulate the tournament.
